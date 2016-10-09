@@ -1,0 +1,1350 @@
+general_rank,drugname,class,total_sum
+43,AVASTIN,Immunological Agent,1873035
+143,AFINITOR,Antineoplastic Agent,619030
+143,AFINITOR,Immune Suppressant,619030
+4,BRILINTA,Platelet Aggregation Inhibitor,7713671
+195,HERCEPTIN,Immunological Agent,417997
+6,LATUDA,Antipsychotic,7029556
+6,LATUDA,Central Nervous System Agent,7029556
+50,VIIBRYD,Antidepressant,1694134
+98,LUCENTIS,Ophthalmologic Agent,932659
+180,REYATAZ,Antiretroviral Agent,472833
+180,REYATAZ,Antiviral,472833
+51,XELJANZ,Antirheumatic,1681813
+51,XELJANZ,Musculoskeletal Agent,1681813
+2,VICTOZA,Antidiabetic,9067134
+42,VELCADE,Antineoplastic Agent,1873270
+326,GLEEVEC,Antineoplastic Agent,161006
+326,GLEEVEC,Immunological Agent,161006
+8,HUMIRA,Antirheumatic,5578848
+173,LEXISCAN,Diagnostic Agent,493382
+173,LEXISCAN,Cardiac Function,493382
+360,TASIGNA,Antineoplastic Agent,127275
+84,RITUXAN,Antineoplastic Agent,1063702
+84,RITUXAN,Immunological Agent,1063702
+231,KALYDECO,Respiratory Agent,322571
+137,ERBITUX,Antineoplastic Agent,646966
+7,XARELTO,Anticoagulant,6929838
+81,ULORIC,Antigout,1086404
+5,INVOKANA,Endocrine-Metabolic Agent,7159649
+5,INVOKANA,Hypoglycemic,7159649
+3,ELIQUIS,Anticoagulant,7994789
+22,BYDUREON,Antidiabetic,3232403
+73,ONGLYZA,Antidiabetic,1203520
+626,SAPHRIS,Antipsychotic,25552
+66,ACTEMRA,Antirheumatic,1313562
+66,ACTEMRA,Immunological Agent,1313562
+10,DALIRESP,Respiratory Agent,5203871
+44,NAMENDA XR,Central Nervous System Agent,1872480
+191,XALKORI,Antineoplastic Agent,426705
+271,TEMODAR,Antineoplastic Agent,234820
+510,FARXIGA,Antidiabetic,54859
+88,XGEVA,Immunological Agent,1021756
+48,LANTUS,Antidiabetic,1738808
+48,LANTUS,Insulin,1738808
+48,LANTUS,Long Acting,1738808
+74,XTANDI,Antiandrogen,1199543
+74,XTANDI,Antineoplastic Agent,1199543
+114,XOLAIR,Antiasthma,793547
+114,XOLAIR,Immunological Agent,793547
+146,ORENCIA,Antirheumatic,597551
+146,ORENCIA,Immune Modulator,597551
+11,ABILIFY MAINTENA,Antipsychotic,4997513
+314,CHANTIX,Smoking Cessation Agent,178121
+99,REVLIMID,Immune Modulator,927395
+12,ABILIFY,Antipsychotic,4770102
+79,STELARA,Immunological Agent,1104795
+148,INCIVEK,Antiviral,586463
+197,HALAVEN,Antineoplastic Agent,414598
+13,LINZESS,Gastrointestinal Agent,4593006
+154,PERJETA,Antineoplastic Agent,572528
+154,PERJETA,Monoclonal Antibody,572528
+90,NOVOLOG,Antidiabetic,1009663
+20,SYMBICORT,Antiasthma,3497556
+20,SYMBICORT,Anti-Inflammatory/Bronchodilator Combination,3497556
+20,SYMBICORT,Respiratory Agent,3497556
+107,LUMIGAN,Antiglaucoma,872647
+107,LUMIGAN,Ophthalmologic Agent,872647
+82,KYPROLIS,Antineoplastic Agent,1082137
+28,ENBREL,Immune Suppressant,2315431
+28,ENBREL,Immunological Agent,2315431
+365,JEVTANA,Antineoplastic Agent,124063
+129,GILENYA,Immune Modulator,682212
+34,LEVEMIR,Antidiabetic,2132633
+15,TRADJENTA,Hypoglycemic,4168594
+248,FLUZONE,Vaccine,277980
+252,INLYTA,Antineoplastic Agent,264019
+52,LYRICA,Anticonvulsant,1635047
+52,LYRICA,Neuropathic Pain Agent,1635047
+16,BELVIQ,Antiobesity Agent,4142146
+17,COPAXONE,Central Nervous System Agent,4014421
+17,COPAXONE,Immune Suppressant,4014421
+17,COPAXONE,Musculoskeletal Agent,4014421
+63,TYSABRI,Central Nervous System Agent,1384815
+63,TYSABRI,Immune Modulator,1384815
+63,TYSABRI,Immune Suppressant,1384815
+18,SAMSCA,Endocrine-Metabolic Agent,3891851
+408,ADVAIR,Antiasthma,100809
+408,ADVAIR,Anti-Inflammatory/Bronchodilator Combination,100809
+196,CIMZIA,Immune Suppressant,414929
+167,KADCYLA,Antineoplastic Agent,512569
+415,NULOJIX,Immunological Agent,96540
+270,ARANESP,Hematopoietic,236263
+21,AUBAGIO,Central Nervous System Agent,3374913
+21,AUBAGIO,Immune Modulator,3374913
+121,DEXILANT,Gastric Acid Secretion Inhibitor,746676
+253,SUTENT,Antineoplastic Agent,259897
+253,SUTENT,Antiproliferative Agent,259897
+71,JANUVIA,Antidiabetic,1221971
+70,INVEGA SUSTENNA,Antipsychotic,1224813
+83,PREVNAR - 13,Vaccine,1078901
+199,MENVEO,Vaccine,412309
+53,VASCEPA,Antihyperlipidemic,1611083
+30,NESINA,Antidiabetic,2175463
+186,AXIRON,Endocrine-Metabolic Agent,448335
+101,ABRAXANE,Antineoplastic Agent,925219
+31,TECFIDERA,Immune Modulator,2169423
+103,VYTORIN,Antihyperlipidemic,905065
+36,PROLIA,Immunological Agent,1988448
+355,ZORTRESS,Antineoplastic Agent,132590
+355,ZORTRESS,Immune Suppressant,132590
+279,VICTRELIS,Antiviral,227936
+41,TYVASO,Vasodilator,1898660
+264,NPLATE,Hematopoietic,246913
+78,ZYTIGA,Antiandrogen,1113740
+133,COMETRIQ,Antineoplastic Agent,671583
+60,XIAFLEX,Tissue Permeability Modifier,1404227
+670,ZOLINZA,Antineoplastic Agent,20335
+226,ZELBORAF,Antineoplastic Agent,334990
+262,TORISEL,Antineoplastic Agent,248857
+214,IMBRUVICA,Antineoplastic Agent,360456
+138,OLYSIO,Antiviral,644783
+46,NUEDEXTA,Central Nervous System Agent,1816950
+106,REMICADE,Gastrointestinal Agent,874595
+106,REMICADE,Immunological Agent,874595
+24,SUBSYS,Analgesic,2781900
+85,ANDROGEL,Endocrine-Metabolic Agent,1042690
+87,HUMALOG,Antidiabetic,1022392
+57,SOLIRIS,Blood Modifier Agent,1525516
+198,NEULASTA,Hematopoietic,413580
+40,EFFIENT,Platelet Aggregation Inhibitor,1913627
+567,SELZENTRY,Antiretroviral Agent,38912
+239,DULERA,Antiasthma,307834
+239,DULERA,Anti-Inflammatory/Bronchodilator Combination,307834
+269,TOLVAPTAN,Endocrine-Metabolic Agent,236782
+56,AMITIZA,Laxative,1559483
+39,REMODULIN,Antihypertensive,1914202
+39,REMODULIN,Cardiovascular Agent,1914202
+39,REMODULIN,Platelet Aggregation Inhibitor,1914202
+443,ILARIS,Immune Modulator,81626
+524,SIGNIFOR,Endocrine-Metabolic Agent,50382
+100,TEFLARO,Antibiotic,926360
+343,MOZOBIL,Hematopoietic,147498
+260,AMYVID,Diagnostic Agent,251250
+260,AMYVID,Radiopharmaceutical Imaging,251250
+131,POMALYST,Antineoplastic Agent,674418
+163,ISENTRESS,Antiretroviral Agent,531336
+49,APIDRA,Antidiabetic,1697520
+47,XOFIGO,Radiopharmaceutical,1796820
+47,XOFIGO,Antineoplastic,1796820
+45,CRESTOR,Antihyperlipidemic,1834039
+219,DYMISTA,Antihistamine/Anti-Inflammatory Combination,352912
+219,DYMISTA,Nasal Agent,352912
+37,MYRBETRIQ,Genitourinary Agent,1979809
+102,PROVENGE,Immunological Agent,905988
+92,QSYMIA,Anticonvulsant,998859
+92,QSYMIA,Appetite Suppressant,998859
+92,QSYMIA,Centrally Acting,998859
+1026,ROZEREM,Nonbarbiturate Hypnotic,1000
+204,ICLUSIG,Antineoplastic Agent,391776
+159,DIFICID,Antibiotic,545029
+54,SIMPONI,Immune Modulator,1593399
+526,BUSULFEX,Antineoplastic Agent,48540
+145,KALETRA,Antiretroviral Agent,613149
+109,NEXAVAR,Antineoplastic Agent,852156
+276,VECTIBIX,Antineoplastic Agent,230262
+276,VECTIBIX,Immunological Agent,230262
+171,OZURDEX,Corticosteroid,505615
+171,OZURDEX,Weak,505615
+900,FLUTIVATE,Corticosteroid,3774
+900,FLUTIVATE,Intermediate,3774
+406,ORENITRAM,Antihypertensive,100931
+406,ORENITRAM,Cardiovascular Agent,100931
+406,ORENITRAM,Vasodilator,100931
+75,FORTEO,Calcium Regulator,1123995
+86,JANUMET,Antidiabetic,1035217
+238,GARDASIL,Vaccine,307846
+91,EXPAREL,Anesthetic,1003614
+91,EXPAREL,Local,1003614
+375,APREMILAST,Musculoskeletal Agent,121072
+67,TARCEVA,Antineoplastic Agent,1309384
+67,TARCEVA,Immunological Agent,1309384
+69,ZETIA,Antihyperlipidemic,1246404
+176,VIMPAT,Anticonvulsant,483226
+140,ERIVEDGE,Antineoplastic Agent,635430
+135,SENSIPAR,Calcium Regulator,668280
+112,TIVICAY,Antiretroviral Agent,815284
+323,BOSULIF,Antineoplastic Agent,165828
+105,OFIRMEV,Analgesic,878755
+210,STIVARGA,Antineoplastic Agent,374614
+316,TEKTURNA,Antihypertensive,176532
+62,RESTASIS,Anti-Inflammatory,1390775
+673,ADCETRIS,Antineoplastic Agent,20223
+152,ZORVOLEX,Analgesic,579412
+152,ZORVOLEX,Antimigraine,579412
+152,ZORVOLEX,Antirheumatic,579412
+152,ZORVOLEX,Central Nervous System Agent,579412
+152,ZORVOLEX,Musculoskeletal Agent,579412
+370,ERWINAZE,Antineoplastic Agent,122074
+267,PROMACTA,Hematopoietic,238481
+58,FETZIMA,Antidepressant,1417646
+77,SIMBRINZA,Antiglaucoma,1113842
+77,SIMBRINZA,Ophthalmologic Agent,1113842
+387,PEGINTRON,Antineoplastic Agent,111384
+387,PEGINTRON,Immunological Agent,111384
+473,NEUPRO,Antiparkinsonian,69159
+747,TERIFLUNOMIDE,Central Nervous System Agent,12678
+747,TERIFLUNOMIDE,Immune Modulator,12678
+800,ARZERRA,Immunological Agent,8740
+118,ALEMTUZUMAB,Immunological Agent,765467
+80,ZYVOX,Antibiotic,1094075
+272,ZALTRAP,Antineoplastic Agent,234725
+235,BENLYSTA,Immunological Agent,315340
+333,EPOGEN,Hematopoietic,154308
+297,SKYLA,Contraceptive,200447
+297,SKYLA,Local,200447
+297,SKYLA,Endocrine-Metabolic Agent,200447
+178,BYSTOLIC,Antihypertensive,480857
+784,TYKERB,Antineoplastic Agent,9779
+562,JUVISYNC,Antidiabetic,41555
+562,JUVISYNC,Antihyperlipidemic,41555
+562,JUVISYNC,Cardiovascular Agent,41555
+562,JUVISYNC,Endocrine-Metabolic Agent,41555
+224,PEGASYS,Antineoplastic Agent,342464
+224,PEGASYS,Immunological Agent,342464
+147,ADEMPAS,Cardiovascular Agent,589873
+575,LUMIZYME,Enzyme Replacement,37384
+181,HORIZANT,Analgesic,466837
+831,RAPAMUNE,Immune Suppressant,6635
+405,PRISTIQ,Antidepressant,101133
+94,SANTYL,Debriding Agent,984292
+94,SANTYL,Dermatological Agent,984292
+97,ZEMURON,Musculoskeletal Agent,947482
+116,CUBICIN,Antibiotic,780831
+96,COLCRYS,Antigout,964389
+610,NOVOLIN N,Antidiabetic,29064
+95,QVAR,Anti-Inflammatory,964779
+298,ADASUVE,Antipsychotic,199403
+160,ANGIOMAX,Anticoagulant,544921
+1011,AVELOX,Antibiotic,1248
+458,APTIOM,Anticonvulsant,76064
+458,APTIOM,Central Nervous System Agent,76064
+249,INTUNIV,Antihypertensive,274552
+249,INTUNIV,Cardiovascular Agent,274552
+249,INTUNIV,Central Nervous System Agent,274552
+679,ZETONNA,Anti-Inflammatory,19227
+679,ZETONNA,Endocrine-Metabolic Agent,19227
+150,ACZONE,Antiacne,580946
+865,ACTOS,Antidiabetic,5447
+797,TAXOTERE,Antineoplastic Agent,8955
+223,MYCAMINE,Antifungal,342818
+117,AVONEX,Immune Stimulant,775762
+117,AVONEX,Immunological Agent,775762
+855,SIPULEUCEL-T,Immunological Agent,5794
+108,REBIF,Immune Stimulant,856573
+108,REBIF,Immunological Agent,856573
+122,PREZISTA,Antiretroviral Agent,745548
+124,UCERIS,Endocrine-Metabolic Agent,720555
+124,UCERIS,Gastrointestinal Agent,720555
+203,XYREM,Central Nervous System Agent,393261
+110,JAKAFI,Antineoplastic Agent,839341
+136,NASONEX,Anti-Inflammatory,651018
+572,GAZYVA,Antineoplastic Agent,37778
+115,PROLENSA,Anti-Inflammatory,791543
+127,AMPYRA,Central Nervous System Agent,689201
+505,IXEMPRA,Antineoplastic Agent,55985
+320,CEREZYME,Digestant,169263
+320,CEREZYME,Gastrointestinal Agent,169263
+327,ALIMTA,Antineoplastic Agent,159494
+933,MEKINIST,Antineoplastic Agent,2861
+165,ONFI,Anticonvulsant,519127
+165,ONFI,Sedative-Hypnotic,519127
+130,ACTIVASE,Thrombolytic,677427
+164,SINGULAIR,Anti-Inflammatory,524513
+156,EDARBI,Antihypertensive,563832
+216,SABRIL,Anticonvulsant,359056
+188,CREON,Digestant,444551
+188,CREON,Enzyme Replacement,444551
+188,CREON,Gastrointestinal Agent,444551
+548,ARESTIN,Antiemetic,43015
+169,BETASERON,Central Nervous System Agent,510838
+169,BETASERON,Immune Modulator,510838
+169,BETASERON,Immunological Agent,510838
+292,NORDITROPIN,Endocrine-Metabolic Agent,204902
+184,FABRAZYME,Endocrine-Metabolic Agent,460357
+155,NUVIGIL,CNS Stimulant,565508
+784,TYCERB,Antineoplastic Agent,9779
+801,BRAVELLE,Endocrine-Metabolic Agent,8697
+801,BRAVELLE,Female Reproductive Agent,8697
+157,BESIVANCE,Antibiotic,563765
+457,NOXAFIL,Antifungal,76207
+153,RAPAFLO,Benign Prostatic Hypertrophy Agent,573134
+809,AZOPT,Antiglaucoma,8067
+151,EDARBYCLOR,Antihypertensive,580132
+386,KUVAN,Endocrine-Metabolic Agent,112024
+532,VOTRIENT,Antineoplastic Agent,47811
+532,VOTRIENT,Immunological Agent,47811
+179,PICATO,Dermatological Agent,479253
+158,NEXPLANON,Contraceptive,561014
+158,NEXPLANON,Progestin,561014
+748,KYNAMRO,Antihyperlipidemic,12521
+251,EXJADE,Heavy Metal Chelator,264628
+288,MIRENA,Contraceptive,211189
+288,MIRENA,Local,211189
+288,MIRENA,Endocrine-Metabolic Agent,211189
+200,LOTRONEX,Antidiarrheal,407883
+200,LOTRONEX,Gastrointestinal Agent,407883
+368,SYLATRON,Antineoplastic Agent,122431
+368,SYLATRON,Immunological Agent,122431
+467,FASLODEX,Antiestrogen,70976
+172,NUCYNTA,Analgesic,499916
+891,APLISOL,Diagnostic Agent,4200
+891,APLISOL,Tuberculin,4200
+208,ZOSTAVAX,Vaccine,384283
+435,ROTATEQ,Vaccine,85035
+182,DICLEGIS,Antiemetic,466026
+182,DICLEGIS,Antihistamine Combination,466026
+362,TOBI PODHALER,Antibiotic,126194
+275,PERFOROMIST,Bronchodilator,231082
+356,EXFORGE,Antihypertensive,132437
+373,FOSAMAX,Calcium Regulator,121193
+692,CLOLAR,Antineoplastic Agent,17480
+205,VIAGRA,Antihypertensive,391542
+205,VIAGRA,Peripheral Vasodilator,391542
+205,VIAGRA,Erectile Dysfunction Agent,391542
+416,PENTASA,Anti-Inflammatory,95459
+416,PENTASA,Gastrointestinal Agent,95459
+338,GENOTROPIN,Endocrine-Metabolic Agent,153006
+256,ISTODAX,Antineoplastic Agent,259274
+309,RENVELA,Phosphate Binder,183350
+735,HUMATROPE,Endocrine-Metabolic Agent,13499
+265,TOVIAZ,Urinary Antispasmodic,243820
+194,EPIDUO,Antiacne,421290
+712,FYCOMPA,Anticonvulsant,15073
+712,FYCOMPA,Central Nervous System Agent,15073
+513,EGRIFTA,Endocrine-Metabolic Agent,54268
+350,CALDOLOR,Analgesic,139933
+350,CALDOLOR,Central Nervous System Agent,139933
+350,CALDOLOR,Musculoskeletal Agent,139933
+1128,ONTAK,Antineoplastic Agent,150
+296,RISPERDAL,Antipsychotic,203244
+450,FOLOTYN,Antineoplastic Agent,78715
+220,SYNRIBO,Antineoplastic Agent,350794
+1035,CABAZITAXEL,Antineoplastic Agent,966
+488,GADAVIST,Diagnostic Agent,63490
+488,GADAVIST,Radiological Contrast Media,63490
+222,JETREA,Ophthalmologic Agent,345865
+502,PROQUAD,Vaccine,57794
+404,MIPOMERSEN,Antihyperlipidemic,101607
+246,MAKENA,Endocrine-Metabolic Agent,283259
+246,MAKENA,Hydroxyprogesterone,283259
+506,CYMBALTA,Antidepressant,55470
+506,CYMBALTA,Central Nervous System Agent,55470
+506,CYMBALTA,Neuropathic Pain Agent,55470
+388,SOMAVERT,Endocrine-Metabolic Agent,111081
+280,INTRON A,Antineoplastic Agent,225949
+280,INTRON A,Antiproliferative Agent,225949
+280,INTRON A,Antiviral,225949
+280,INTRON A,Immunological Agent,225949
+299,INVEGA,Antipsychotic,194294
+305,DOXIL,Antineoplastic Agent,185476
+228,EXALGO,Analgesic,326781
+228,EXALGO,Central Nervous System Agent,326781
+233,GANIRELIX,Endocrine-Metabolic Agent,318902
+233,GANIRELIX,Female Reproductive Agent,318902
+1037,BIOTHRAX,Vaccine,941
+286,STRATTERA,Central Nervous System Agent,217716
+474,VERAMYST,Corticosteroid,68931
+474,VERAMYST,Intermediate,68931
+474,VERAMYST,Corticosteroid,68931
+474,VERAMYST,Strong,68931
+417,PULMOZYME,Mucolytic,95096
+391,FINACEA,Antiacne Antibacterial,109008
+289,KOGENATE FS,Antihemophilic Agent,208697
+289,KOGENATE FS,Hemostatic,208697
+794,NIASPAN,Antihyperlipidemic,9183
+794,NIASPAN,Nutriceutical,9183
+794,NIASPAN,Nutritive Agent,9183
+432,FANAPT,Antipsychotic,85998
+1099,ARIMIDEX,Antineoplastic Agent,281
+1099,ARIMIDEX,Endocrine-Metabolic Agent,281
+485,IMPLANON,Contraceptive,65033
+485,IMPLANON,Progestin,65033
+447,SYSTANE,Lubricant,79597
+447,SYSTANE,Ocular,79597
+447,SYSTANE,Surgical Aid,79597
+447,SYSTANE,Ocular,79597
+294,TACLONEX,Antipsoriatic,203863
+259,DUREZOL,Anti-Inflammatory,252977
+301,VIVITROL,Ethanol Dependency,189528
+359,GATTEX,Gastrointestinal Agent,130371
+285,GAMUNEX-C,Immune Serum,219806
+274,AFLIBERCEPT,Ophthalmologic Agent,231244
+636,MULTAQ,Antiarrhythmic,24499
+511,TOBI,Antibiotic,54398
+293,FIRMAGON,Antiandrogen,203989
+945,MAGNEVIST,Radiological Non-Ionic Contrast Media,2416
+947,TARGRETIN,Antineoplastic Agent,2385
+947,TARGRETIN,Antineoplastic,2385
+947,TARGRETIN,Dermatological,2385
+947,TARGRETIN,Dermatological Agent,2385
+534,RAVICTI,Hyperammonemia Agent,47295
+313,PNEUMOVAX 23,Vaccine,180145
+550,TAFINLAR,Antineoplastic Agent,42635
+496,XYNTHA,Antihemophilic Agent,60217
+496,XYNTHA,Hemostatic,60217
+307,BANZEL,Anticonvulsant,185039
+304,NUVARING,Contraceptive,186324
+348,KALBITOR,Immune Modulator,141056
+517,INJECTAFER,Iron Supplement,53944
+531,DUAVEE,Endocrine-Metabolic Agent,47880
+312,RECTIV,Colorectal Agent,181294
+779,BERINERT,Immune Modulator,10163
+455,TYGACIL,Antibiotic,76926
+533,PROGRAF,Antipsoriatic,47601
+533,PROGRAF,Immune Suppressant,47601
+349,PHOTOFRIN,Antineoplastic Agent,140931
+619,SUCRAID,Gastrointestinal Agent,27588
+371,CANCIDAS,Antifungal,121832
+1003,REBETOL,Antiviral,1375
+449,EOVIST,Diagnostic Agent,79050
+456,ORACEA,Amebicide,76499
+456,ORACEA,Amebicide,76499
+456,ORACEA,Intestinal,76499
+456,ORACEA,Antiacne,76499
+456,ORACEA,Antibiotic,76499
+456,ORACEA,Antimalarial,76499
+456,ORACEA,Antiprotozoal,76499
+456,ORACEA,Dental Agent,76499
+340,APRISO,Anti-Inflammatory,149640
+340,APRISO,Gastrointestinal Agent,149640
+956,VIDAZA,Antineoplastic Agent,2178
+372,MYOZYME,Enzyme Replacement,121420
+985,OCTAGAM,Immune Serum,1641
+481,DEFERIPRONE,Heavy Metal Chelator,67278
+357,DEFINITY,Radiological Non-Ionic Contrast Media,130992
+364,VEREGEN,Keratolytic,124478
+430,FOLLISTIM AQ,Endocrine-Metabolic Agent,86896
+430,FOLLISTIM AQ,Female Reproductive Agent,86896
+430,FOLLISTIM AQ,Human Follicle Stimulating Hormone Combination,86896
+377,LIALDA,Anti-Inflammatory,120430
+377,LIALDA,Gastrointestinal Agent,120430
+678,ZIOPTAN,Antiglaucoma,19253
+384,ELIDEL,Dermatological Agent,115621
+926,EDURANT,Antiretroviral Agent,3196
+407,TRAVATAN Z,Antiglaucoma,100868
+412,ARCAPTA NEOHALER,Bronchodilator,98636
+784,TYVERB,Antineoplastic Agent,9779
+1054,ELOXATIN,Antineoplastic Agent,708
+893,VPRIV,Enzyme Replacement,4091
+409,WILATE,Antihemophilic Agent,100616
+995,REQUIP,Antiparkinsonian,1500
+983,VIMOVO,Analgesic,1666
+983,VIMOVO,Antirheumatic,1666
+499,BENEFIX,Antihemophilic Agent,58751
+499,BENEFIX,Hemostatic,58751
+514,NEUMEGA,Hematopoietic,54188
+609,ORAVERSE,Antihypertensive,29135
+609,ORAVERSE,Diagnostic Agent,29135
+609,ORAVERSE,Pheochromocytoma,29135
+609,ORAVERSE,Toxicology-Antidote Agent,29135
+431,CATHFLO ACTIVASE,Thrombolytic,86818
+1115,NORVIR,Antiretroviral Agent,198
+434,TNKASE,Thrombolytic,85794
+578,ZYCLARA,Immune Modulator,36683
+594,SEVELAMER,Phosphate Binder,33469
+616,FOSRENOL,Phosphate Binder,28086
+1014,ZOMETA,Calcium Regulator,1225
+904,ARIXTRA,Anticoagulant,3680
+460,AMBISOME,Antifungal,75801
+460,AMBISOME,Antiprotozoal,75801
+813,OMNITROPE,Endocrine-Metabolic Agent,7909
+1221,PULMICORT FLEXHALER,Anti-Inflammatory,27
+980,SAVELLA,Central Nervous System Agent,1701
+573,SPRIX,Analgesic,37567
+766,PRIVIGEN,Immune Serum,10944
+442,NEXIUM,Gastric Acid Secretion Inhibitor,82076
+442,NEXIUM,Gastrointestinal Agent,82076
+618,INTEGRILIN,Platelet Aggregation Inhibitor,27745
+627,TAZORAC,Dermatological Agent,25386
+523,LASTACAFT,Ophthalmologic Agent,50387
+464,GRASTEK,Immunological Agent,72003
+507,ZIPSOR,Analgesic,55273
+507,ZIPSOR,Antimigraine,55273
+507,ZIPSOR,Antirheumatic,55273
+507,ZIPSOR,Central Nervous System Agent,55273
+507,ZIPSOR,Musculoskeletal Agent,55273
+1070,ZOLOFT,Antidepressant,467
+1070,ZOLOFT,Central Nervous System Agent,467
+577,NAGLAZYME,Endocrine-Metabolic Agent,36982
+824,HYCAMTIN,Antineoplastic Agent,7125
+677,SANCUSO,Antiemetic,19600
+470,DESONATE,Corticosteroid,69970
+470,DESONATE,Strong,69970
+701,FLOVENT,Anti-Inflammatory,16673
+701,FLOVENT,Corticosteroid,16673
+701,FLOVENT,Strong,16673
+635,DORIBAX,Antibiotic,24500
+518,CAMPATH,Immunological Agent,53900
+585,VOLTAREN GEL,Analgesic,35318
+585,VOLTAREN GEL,Anti-Inflammatory,35318
+576,BELINOSTAT,Antineoplastic Agent,37215
+482,PROCYSBI,Renal-Urologic Agent,66170
+1063,GAMMAPLEX,Immune Serum,538
+655,TAMIFLU,Antiviral,22854
+500,ALDURAZYME,Endocrine-Metabolic Agent,57938
+558,VALCYTE,Antiviral,42044
+742,ETHAMOLIN,Sclerosing Agent,13125
+606,HIZENTRA,Immune Serum,29608
+753,POTIGA,Anticonvulsant,12250
+546,ADVATE,Antihemophilic Agent,43272
+546,ADVATE,Hemostatic,43272
+715,ERAXIS,Antifungal,15000
+589,ELITEK,Endocrine-Metabolic Agent,34485
+630,XELODA,Antineoplastic Agent,24794
+1057,MYFORTIC,Immune Suppressant,660
+658,MARQIBO,Antineoplastic Agent,22242
+580,ARICEPT,Central Nervous System Agent,36352
+648,OCTAPLAS,Blood Modifier Agent,23909
+774,VFEND,Antifungal,10364
+990,PLETAL,Platelet Aggregation Inhibitor,1602
+680,FLUCELVAX,Vaccine,19162
+834,CIPRO,Antibiotic,6552
+834,CIPRO,Antitubercular,6552
+946,IXIARO,Vaccine,2416
+1262,LEXIVA,Antiretroviral Agent,10
+681,ELAPRASE,Enzyme Replacement,19097
+702,COMBIVENT,Bronchodilator,16325
+1036,BUDESONIDE,Anti-Inflammatory,961
+1036,BUDESONIDE,Endocrine-Metabolic Agent,961
+1036,BUDESONIDE,Gastrointestinal Agent,961
+981,ADENOSCAN,Antiarrhythmic,1683
+752,NEVANAC,Anti-Inflammatory,12420
+1238,HEPAGAM B,Immune Serum,17
+1146,KEPIVANCE,Protectant,119
+1146,KEPIVANCE,Dental,119
+1072,INFASURF,Lung Surfactant,448
+756,DONEPEZIL,Central Nervous System Agent,12150
+1215,ZIAGEN,Antiretroviral Agent,33
+1080,CADUET,Calcium Channel Blocker/HMG-COA Reductase Inhibitor Combination,399
+873,REOPRO,Platelet Aggregation Inhibitor,4998
+775,SUPPRELIN LA,Endocrine-Metabolic Agent,10341
+1060,THALOMID,Antineoplastic Agent,602
+1060,THALOMID,Leprostatic,602
+821,EPZICOM,Antiretroviral Agent,7214
+838,TRILIPIX,Antihyperlipidemic,6471
+908,RECLAST,Calcium Regulator,3531
+1023,BOOSTRIX,Analgesic,1036
+1023,BOOSTRIX,Neuropathic Pain Agent,1036
+930,VALTURNA,Antihypertensive,2931
+965,RELENZA,Antiviral,1950
+1042,RENAGEL,Phosphate Binder,874
+1078,SYMBYAX,Antidepressant,403
+1078,SYMBYAX,Antipsychotic,403
+1199,DIOVAN,Cardiovascular Agent,47
+1199,DIOVAN,Renal Protective Agent,47
+1021,INSPRA,Cardiovascular Agent,1107
+1033,OMNARIS,Anti-Inflammatory,992
+1033,OMNARIS,Endocrine-Metabolic Agent,992
+1024,PROCENTRA,CNS Stimulant,1022
+967,PREDNISOLONE,Endocrine-Metabolic Agent,1919
+967,PREDNISOLONE,Immune Suppressant,1919
+967,PREDNISOLONE,Ophthalmologic Agent,1919
+1026,TEXACORT,Corticosteroid,1000
+1026,TEXACORT,Intermediate,1000
+1026,TEXACORT,Corticosteroid,1000
+1026,TEXACORT,Weak,1000
+1044,MUSE,Endocrine-Metabolic Agent,856
+1044,MUSE,Erectile Dysfunction Agent,856
+1044,MUSE,Prostaglandin,856
+1045,AKTEN,Anesthetic,825
+1045,AKTEN,Local,825
+1046,VELTIN,Antiacne,811
+1046,VELTIN,Antibacterial,811
+1046,VELTIN,Retinoid Combination,811
+1047,AFLURIA,Vaccine,806
+1087,VENOFER,Parenteral Mineral-Trace Mineral,354
+1038,CERITINIB,Antineoplastic Agent,936
+1041,TOPAMAX,Anticonvulsant,875
+1041,TOPAMAX,Central Nervous System Agent,875
+1073,BIVIGAM,Immune Serum,440
+1077,LOVENOX,Anticoagulant,404
+1062,VIRAMUNE,Antiretroviral Agent,561
+1064,ISTALOL,Antiglaucoma,520
+1069,PEDIARIX,Vaccine,474
+1100,LUZU,Antifungal,280
+1100,JUBLIA,Antifungal,280
+1102,CERVIDIL,Endocrine-Metabolic Agent,275
+1102,CERVIDIL,Uterine Stimulant,275
+1107,FOCALIN,CNS Stimulant,262
+1108,ACYCLOVIR,Antiviral,250
+1111,CEFTIDOREN,Antibiotic,220
+1112,HELIXATE FS,Antihemophilic Agent,208
+1112,HELIXATE FS,Hemostatic,208
+1113,INFANRIX,Vaccine,207
+1114,PLIAGLIS,Anesthetic Combination,206
+1114,PLIAGLIS,Dermatological Agent,206
+1129,TEKTURNA HCT,Antihypertensive,149
+1130,ZYMAXID,Antibiotic,148
+1132,COSOPT PF,Antiglaucoma,146
+1132,COSOPT PF,Beta-Adrenergic Blocker/Carbonic Anhydrase Inhibitor Combination,146
+1135,HIBICLENS,Antibacterial,136
+1135,HIBICLENS,Antibacterial Cleansing Agent,136
+1135,HIBICLENS,Wound Care Agent,136
+1136,RENOVA,Antiacne,136
+1136,RENOVA,Dermatological Agent,136
+1138,CAVERJECT,Endocrine-Metabolic Agent,127
+1138,CAVERJECT,Erectile Dysfunction Agent,127
+1138,CAVERJECT,Prostaglandin,127
+1139,GEMZAR,Antineoplastic Agent,126
+1144,KINRIX,Vaccine,120
+1149,PROZAC,Antidepressant,114
+1149,PROZAC,Central Nervous System Agent,114
+1150,APIDRA SOLOSTAR,Antidiabetic,112
+1151,ALOCRIL,Ophthalmologic Agent,109
+1152,ACCUNEB,Bronchodilator,108
+1155,TWINRIX,Vaccine,103
+1158,ULTRAVIST,Radiological Non-Ionic Contrast Media,101
+1160,ATACAND,Antihypertensive,100
+1160,ATACAND,Cardiovascular Agent,100
+1160,ATACAND,Renal Protective Agent,100
+1161,FAMVIR,Antiviral,98
+1163,CARAFATE,Antiulcer,91
+1163,CARAFATE,Protectant,91
+1166,INOMAX,Stimulant,83
+1166,INOMAX,Respiratory,83
+1167,VOLTAREN,Analgesic,82
+1167,VOLTAREN,Anti-Inflammatory,82
+1167,VOLTAREN,Antimigraine,82
+1167,VOLTAREN,Antirheumatic,82
+1167,VOLTAREN,Central Nervous System Agent,82
+1167,VOLTAREN,Musculoskeletal Agent,82
+1167,VOLTAREN,Ophthalmologic Agent,82
+1168,CERVARIX,Vaccine,81
+1169,COLACE,Laxative,80
+1169,COLACE,Stimulant,80
+1169,COLACE,Laxative,80
+1169,COLACE,Stimulant Combination,80
+1169,COLACE,Laxative,80
+1169,COLACE,Stool Softener,80
+1169,PERI-COLACE,Laxative,80
+1169,PERI-COLACE,Stimulant,80
+1169,PERI-COLACE,Laxative,80
+1169,PERI-COLACE,Stimulant Combination,80
+1169,PERI-COLACE,Laxative,80
+1169,PERI-COLACE,Stool Softener,80
+1176,LIVALO,Antihyperlipidemic,77
+1177,BEXXAR,Antineoplastic Agent,76
+1178,BREVIBLOC,Antiarrhythmic,71
+1178,BREVIBLOC,Group II,71
+1178,BREVIBLOC,Cardiovascular Agent,71
+1182,PRED FORTE,Ophthalmologic Agent,67
+1183,SULFAMYLON,Antibacterial,66
+1184,COMTAN,Antiparkinsonian,66
+1191,ADIPEX,Appetite Suppressant,61
+1191,ADIPEX,Centrally Acting,61
+1193,DIOVAN HCT,Angiotensin II Receptor Antagonist/Thiazide Combination,57
+973,HECTOROL,Calcium Regulator,1842
+973,HECTOROL,Endocrine-Metabolic Agent,1842
+973,HECTOROL,Nutriceutical,1842
+973,HECTOROL,Nutritive Agent,1842
+970,LACRISERT,Lubricant,1875
+970,LACRISERT,Ocular,1875
+971,RETISERT,Corticosteroid,1872
+971,RETISERT,Intermediate,1872
+971,RETISERT,Fluocinolone,1872
+971,RETISERT,Otic Agent,1872
+975,PREGNYL,Diagnostic Agent,1793
+975,PREGNYL,Endocrine-Metabolic Agent,1793
+977,TEV TROPIN,Endocrine-Metabolic Agent,1746
+978,VAQTA,Vaccine,1740
+979,RECOMBIVAX HIB,Vaccine,1740
+957,EMSAM,Antidepressant,2176
+965,RECOMBINATE,Antihemophilic Agent,1950
+965,RECOMBINATE,Hemostatic,1950
+950,GAMMAKED,Immune Serum,2273
+950,KOATE-DVI,Antihemophilic Agent,2273
+950,KOATE-DVI,Hemostatic,2273
+950,KEDBUMIN,Volume Expander,2273
+954,CLOZAPINE,Antipsychotic,2216
+955,BUPIVACAINE,Anesthetic,2182
+955,BUPIVACAINE,Local,2182
+934,ALUVEA,Emollient,2787
+934,ALUVEA,Keratolytic,2787
+939,ROTARIX,Vaccine,2625
+940,MYALEPT,Endocrine-Metabolic Agent,2610
+941,ZOVIRAX,Antiviral,2500
+941,PROTONIX,Gastric Acid Secretion Inhibitor,2500
+941,DINOPROSTONE,Endocrine-Metabolic Agent,2500
+941,DINOPROSTONE,Uterine Stimulant,2500
+982,SPECTRACEF,Antibiotic,1672
+993,LUNESTA,Nonbarbiturate Hypnotic,1551
+994,VISUDYNE,Photosensitizing Agent,1541
+1002,MACUGEN,Ophthalmologic Agent,1392
+1006,VIGAMOX,Antibiotic,1328
+1009,TOBRADEX ST,Adrenal Glucocorticoid,1284
+1009,TOBRADEX ST,Aminoglycoside,1284
+1009,TOBRADEX ST,Aminoglycoside/Corticosteroid Combination,1284
+1016,NITROMIST,Antianginal,1210
+1016,NITROMIST,Coronary Vasodilator,1210
+1017,PULMICORT RESPULES,Anti-Inflammatory,1153
+1019,ZIPRASIDONE,Antipsychotic,1125
+1013,STAXYN,Erectile Dysfunction Agent,1227
+931,BEYAZ,Endocrine-Metabolic Agent,2918
+931,BEYAZ,Female Reproductive Agent,2918
+931,BEYAZ,Hormonal Contraceptive,2918
+931,BEYAZ,Musculoskeletal Agent,2918
+932,CLINDESSE,Antibiotic,2899
+928,RETIN-A-MICRO,Antiacne,3094
+928,RETIN-A-MICRO,Dermatological Agent,3094
+924,OXISTAT,Antifungal,3272
+935,CELLCEPT,Immune Suppressant,2702
+907,XOPENEX,Bronchodilator,3543
+911,ZITRIPRO,Antitussive,3480
+911,ZITRIPRO,Opioid/Antihistamine/Decongestant Combination,3480
+911,CEDAX,Antibiotic,3480
+911,VITUZ,Antihistamine/Antitussive Combination,3480
+911,VITUZ,Antitussive,3480
+911,VITUZ,Opioid/Antihistamine Combination,3480
+911,VITUZ,Cold/Cough Agent,3480
+915,ERTACZO,Antifungal,3466
+916,NATAZIA,Endocrine-Metabolic Agent,3464
+916,NATAZIA,Female Reproductive Agent,3464
+916,NATAZIA,Hormonal Contraceptive,3464
+916,NATAZIA,Musculoskeletal Agent,3464
+917,ZOFRAN,Antiemetic,3450
+920,PROVENTIL,Bronchodilator,3386
+920,PROVENTIL,Cardiovascular Agent,3386
+837,GENGRAF,Immune Suppressant,6479
+832,FOCALIN XR,CNS Stimulant,6606
+876,PENLAC,Antifungal,4747
+879,FENTANYL,Analgesic,4665
+879,FENTANYL,Anesthetic Adjunct,4665
+882,OCTREOSCAN,Diagnostic Agent,4500
+882,OCTREOSCAN,Radiopharmaceutical Imaging,4500
+886,HEPSERA,Antiviral,4380
+887,HEMANGEOL,Antianginal,4377
+887,HEMANGEOL,Antiarrhythmic,4377
+887,HEMANGEOL,Group II,4377
+887,HEMANGEOL,Antihypertensive,4377
+887,HEMANGEOL,Antimigraine,4377
+887,HEMANGEOL,Cardiovascular Agent,4377
+888,FROVA,Antimigraine,4294
+889,QUTENZA,Analgesic,4269
+889,QUTENZA,Neuropathic Pain Agent,4269
+895,GLULISINE,Antidiabetic,3986
+897,ELMIRON,Cystitis Agent,3900
+897,ELMIRON,Urinary Stone Agent,3900
+866,PULMICORT TURBUHALER,Anti-Inflammatory,5325
+868,DELZICOL,Anti-Inflammatory,5155
+868,DELZICOL,Gastrointestinal Agent,5155
+869,TEVETEN,Cardiovascular Agent,5038
+869,TEVETEN,Renal Protective Agent,5038
+839,THERACYS,Vaccine,6382
+840,INCRELEX,Endocrine-Metabolic Agent,6376
+842,FLEXBUMIN,Volume Expander,6289
+844,CHATEAL,Contraceptive,6235
+844,CHATEAL,Monophasic Contraceptive Combination,6235
+826,SOLARAZE,Analgesic,6949
+826,SOLARAZE,Anti-Inflammatory,6949
+827,PREPEN,Diagnostic Agent,6927
+853,TYZEKA,Antiviral,5881
+854,MAXALT,Antimigraine,5850
+858,ORGARAN,Anticoagulant,5655
+858,ORGARAN,Low Molecular Weight Heparin,5655
+861,ULTRESA,Digestant,5619
+861,ULTRESA,Enzyme Replacement,5619
+861,ULTRESA,Gastrointestinal Agent,5619
+820,PLAVIX,Platelet Aggregation Inhibitor,7483
+814,KRISTALOSE,Gastrointestinal Agent,7846
+814,KRISTALOSE,Laxative,7846
+814,KRISTALOSE,Hyperosmotic,7846
+815,REVATIO,Antihypertensive,7797
+815,REVATIO,Peripheral Vasodilator,7797
+815,REVATIO,Erectile Dysfunction Agent,7797
+815,REVATIO,Vasodilator,7797
+816,FARESTON,Antiestrogen,7774
+817,ULTANE,Volatile Liquid,7692
+819,CLARINEX,Respiratory Agent,7600
+798,EXELON,Central Nervous System Agent,8943
+810,THROMBIN,Hemostatic,8001
+812,CRIXIVAN,Antiretroviral Agent,7950
+804,LEVITRA,Erectile Dysfunction Agent,8555
+789,PROTOPIC,Antipsoriatic,9560
+790,KEPPRA,Anticonvulsant,9544
+791,NAMENDA,Central Nervous System Agent,9436
+792,KOMBIGLYZE XR,Antidiabetic,9301
+793,FUSILEV,Methotrexate Rescue,9270
+776,MICARDIS,Antihypertensive,10334
+776,MICARDIS,Cardiovascular Agent,10334
+776,MICARDIS,Renal Protective Agent,10334
+777,ACTIFUSE,Thrombolytic,10272
+778,VENTOLIN,Bronchodilator,10223
+778,VENTOLIN,Cardiovascular Agent,10223
+781,NASACORT ALLERGY 24HR,Anti-Inflammatory,10050
+757,SEROSTIM,Endocrine-Metabolic Agent,12082
+758,OXTELLAR XR,Anticonvulsant,11738
+759,ANDRODERM,Endocrine-Metabolic Agent,11354
+760,FAMPYRA,Central Nervous System Agent,11123
+762,ZONTIVITY,Platelet Aggregation Inhibitor,11096
+763,LANTUS SOLOSTAR,Antidiabetic,11066
+763,LANTUS SOLOSTAR,Insulin,11066
+763,LANTUS SOLOSTAR,Long Acting,11066
+771,MOBIC,Analgesic,10560
+771,MOBIC,Antirheumatic,10560
+771,MOBIC,Central Nervous System Agent,10560
+771,MOBIC,Musculoskeletal Agent,10560
+743,JALYN,Benign Prostatic Hypertrophy Agent,12900
+736,DIAZEPAM,Antianxiety,13480
+736,DIAZEPAM,Anticonvulsant,13480
+736,DIAZEPAM,Skeletal Muscle Relaxant,13480
+737,MEPIVICAINE,Anesthetic,13456
+737,MEPIVICAINE,Local,13456
+740,LIDOCAINE,Anesthetic,13234
+740,LIDOCAINE,Local,13234
+740,LIDOCAINE,Antiarrhythmic,13234
+740,LIDOCAINE,Group IB,13234
+741,MIGRANAL,Antimigraine,13230
+733,BROMDAY,Anti-Inflammatory,13834
+734,EMBEDA,Analgesic Combination,13745
+734,EMBEDA,Opioid Agonist/Antagonist,13745
+727,HYALGAN,Cartilaginous Defect Repair Agent,14078
+727,HYALGAN,Dermatological Agent,14078
+727,HYALGAN,Keratolytic,14078
+727,HYALGAN,Musculoskeletal Agent,14078
+727,HYALGAN,Protectant,14078
+727,HYALGAN,Dermatological,14078
+727,HYALGAN,Wound Care Agent,14078
+717,TWYNSTA,Antihypertensive,14854
+719,DEXMEDETOMIDINE,Analgesic,14736
+719,DEXMEDETOMIDINE,Anesthetic Adjunct,14736
+719,DEXMEDETOMIDINE,Sedative,14736
+720,FLUVIRIN,Vaccine,14735
+724,KINERET,Immunological Agent,14563
+726,SUPRENZA,Appetite Suppressant,14267
+726,SUPRENZA,Centrally Acting,14267
+715,REVASCOR,Antihyperlipidemic,15000
+703,ALSUMA,Antimigraine,15925
+706,TANZEUM,Antidiabetic,15550
+706,TANZEUM,Glucagon-Like Peptide-1 Receptor Agonist,15550
+682,ELIGARD,Antineoplastic Agent,18879
+682,ELIGARD,Endocrine-Metabolic Agent,18879
+682,ELIGARD,Endometrial Hyperplasia Agent,18879
+685,FERRIPROX,Heavy Metal Chelator,18209
+686,LANOXIN,Antiarrhythmic,18175
+686,LANOXIN,Cardiovascular Agent,18175
+687,REMERON,Antidepressant,18035
+688,FENOGLIDE,Antihyperlipidemic,17733
+694,FULYZAQ,Antidiarrheal,17395
+695,REGRANEX,Wound Care Agent,17217
+641,EFINACONAZOLE,Antifungal,24100
+650,PATANASE,Nasal Agent,23510
+651,CUVPOSA,Cholinergic Antagonist,23491
+651,CUVPOSA,Gastrointestinal Agent,23491
+653,ACIPHEX,Antiulcer,23110
+653,ACIPHEX,Gastric Acid Secretion Inhibitor,23110
+659,FLONASE,Corticosteroid,22238
+659,FLONASE,Intermediate,22238
+659,FLONASE,Corticosteroid,22238
+659,FLONASE,Strong,22238
+723,PERTZYE,Digestant,14568
+723,PERTZYE,Enzyme Replacement,14568
+723,PERTZYE,Gastrointestinal Agent,14568
+663,EVISTA,Antineoplastic Agent,21219
+663,EVISTA,Endocrine-Metabolic Agent,21219
+667,ALVESCO,Anti-Inflammatory,20614
+668,PEDVAX HIB,Vaccine,20456
+669,PRIMLEV,Analgesic,20392
+669,PRIMLEV,Opioid/Acetaminophen Combination,20392
+656,ACCUPRIL,Antihypertensive,22820
+656,ACCUPRIL,Cardiovascular Agent,22820
+656,ACCUPRIL,Renal Protective Agent,22820
+671,CELESTONE,Diagnostic Agent,20260
+671,CELESTONE,Adrenocortical Function,20260
+671,CELESTONE,Endocrine-Metabolic Agent,20260
+671,CELESTONE,Immune Suppressant,20260
+672,VANOS,Corticosteroid,20227
+672,VANOS,Strong,20227
+674,TIKOSYN,Antiarrhythmic,20000
+674,TIKOSYN,Group III,20000
+583,XERESE,Anti-Inflammatory,35661
+583,XERESE,Antiviral,35661
+579,ARALAST,Blood Modifier Agent,36381
+587,VIBATIV,Antibiotic,34954
+588,DENAVIR,Antiviral,34678
+598,LIPTRUZET,Antihyperlipidemic,32202
+599,BUPAP,Butalbital/Acetaminophen Combination,31820
+601,SORILUX,Antipsoriatic,31056
+602,DAPTACEL,Vaccine,30824
+603,DEXPAK,Antiemetic,30780
+603,DEXPAK,Diagnostic Agent,30780
+603,DEXPAK,Adrenocortical Function,30780
+603,DEXPAK,Endocrine-Metabolic Agent,30780
+603,DEXPAK,Immune Suppressant,30780
+604,COSOPT,Antiglaucoma,30506
+604,COSOPT,Beta-Adrenergic Blocker/Carbonic Anhydrase Inhibitor Combination,30506
+570,SURVANTA,Lung Surfactant,38139
+565,ZEMPLAR,Antithyroid Agent,40299
+631,AXERT,Antimigraine,24603
+631,SYLVANT,Immunological Agent,24603
+634,TARKA,ACE Inhibitor/Calcium Channel Blocker Combination,24563
+629,RECOTHROM,Hemostatic,25019
+620,ZIRGAN,Antiviral,27103
+621,FLUARIX,Vaccine,26635
+623,FLULAVAL,Vaccine,26410
+608,LIPITOR,Antihyperlipidemic,29226
+595,ALOXI,Antiemetic,33111
+596,CROFELEMER,Antidiarrheal,32874
+612,TUSSICAPS,Antitussive,28320
+612,TUSSICAPS,Opioid/Antihistamine Combination,28320
+612,TUSSICAPS,Chlorpheniramine,28320
+613,GLARGINE,Antidiabetic,28302
+613,GLARGINE,Insulin,28302
+613,GLARGINE,Long Acting,28302
+614,OMACETAXINE,Antineoplastic Agent,28245
+615,GRANIX,Hematopoietic,28148
+543,ZIANA,Antiacne,44868
+543,ZIANA,Antibacterial,44868
+543,ZIANA,Retinoid Combination,44868
+559,OPANA ER,Analgesic,41886
+555,ALBUTEIN,Volume Expander,42498
+556,GLASSIA,Blood Modifier Agent,42325
+519,AMRIX,Skeletal Muscle Relaxant,51058
+519,AMRIX,Centrally Acting,51058
+520,TIROSINT,Diagnostic Agent,50855
+520,TIROSINT,Thyroid Function,50855
+520,TIROSINT,Thyroid Supplement,50855
+530,PENTACEL,Cariostatic,47897
+530,PENTACEL,Dentifrice,47897
+530,PENTACEL,Fluoride Supplement,47897
+530,PENTACEL,Protectant,47897
+530,PENTACEL,Dental,47897
+535,FORTESTA,Endocrine-Metabolic Agent,47066
+536,EQUETRO,Anticonvulsant,46961
+536,EQUETRO,Neuropathic Pain Agent,46961
+539,AVANDIA,Antidiabetic,46078
+490,AVEED,Androgen,62900
+490,AVEED,Endocrine-Metabolic Agent,62900
+503,VORAXAZE,Methotrexate Rescue,57546
+503,VORAXAZE,Toxicology-Antidote Agent,57546
+509,RELPAX,Antimigraine,54894
+515,CYSVIEW,Diagnostic Agent,53994
+515,CYSVIEW,Radiopharmaceutical Imaging,53994
+484,HUMATE P,Antihemophilic Agent,65537
+486,ZENATANE,Antiacne,64358
+486,ZENATANE,Dermatological Agent,64358
+497,CANASA,Anti-Inflammatory,60166
+497,CANASA,Gastrointestinal Agent,60166
+1095,ABLAVAR,Diagnostic Agent,300
+1095,ABLAVAR,Radiological Contrast Media,300
+498,BYETTA,Antidiabetic,59380
+492,PAROEX,Antibacterial,61765
+493,ATRALIN,Antiacne,61336
+493,ATRALIN,Dermatological Agent,61336
+495,BIONECT,Dermatological Agent,60401
+495,BIONECT,Keratolytic,60401
+495,BIONECT,Protectant,60401
+495,BIONECT,Dermatological,60401
+495,BIONECT,Wound Care Agent,60401
+471,FABIOR,Dermatological Agent,69967
+469,VARITHENA,Sclerosing Agent,70081
+465,PYLERA,Antiulcer,71825
+465,PYLERA,Helicobacter Pylori,71825
+476,NEUPOGEN,Hematopoietic,68108
+480,ALPHANATE,Antihemophilic Agent,67656
+461,ENABLEX,Urinary Antispasmodic,75743
+459,ASTAGRAF XL,Immune Suppressant,75808
+421,JANUMET XR,Antidiabetic,91575
+423,ALPHAGAN P,Antiglaucoma,90033
+425,CAYSTON,Antibiotic,88410
+428,SOLODYN,Amebicide,87094
+428,SOLODYN,Intestinal,87094
+428,SOLODYN,Antiacne,87094
+428,SOLODYN,Antiacne Antibacterial,87094
+428,SOLODYN,Antibiotic,87094
+428,SOLODYN,Antiprotozoal,87094
+428,SOLODYN,Tetracycline (class),87094
+429,HYLENEX,Tissue Permeability Modifier,86914
+419,FILGRASTIM,Hematopoietic,94484
+433,EDEX,Endocrine-Metabolic Agent,85836
+433,EDEX,Erectile Dysfunction Agent,85836
+433,EDEX,Prostaglandin,85836
+540,CUROSURF,Lung Surfactant,46049
+440,DIGIFAB,Digoxin/Digitalis Antidote,83006
+441,INNOPRAN XL,Antianginal,82225
+441,INNOPRAN XL,Antiarrhythmic,82225
+441,INNOPRAN XL,Group II,82225
+441,INNOPRAN XL,Antihypertensive,82225
+441,INNOPRAN XL,Antimigraine,82225
+441,INNOPRAN XL,Cardiovascular Agent,82225
+436,ELELYSO,Enzyme,84882
+436,ELELYSO,Enzyme Replacement,84882
+444,HYDROCODONE,Antihistamine/Antitussive Combination,81414
+444,HYDROCODONE,Antitussive,81414
+444,HYDROCODONE,Opioid/Antihistamine Combination,81414
+444,HYDROCODONE,Cold/Cough Agent,81414
+445,BEPREVE,Ophthalmologic Agent,79980
+446,GLUMETZA,Hypoglycemic,79759
+411,ALREX,Ophthalmologic Agent,98889
+390,ATRIDOX,Antibacterial,109566
+403,TRELSTAR,Antineoplastic Agent,103715
+403,TRELSTAR,Endocrine-Metabolic Agent,103715
+652,SILENOR,Antianxiety,23480
+652,SILENOR,Antidepressant,23480
+652,SILENOR,Antiulcer,23480
+652,SILENOR,Sleep Aid,23480
+385,CRINONE,Endocrine-Metabolic Agent,114472
+385,CRINONE,Endometrial Hyperplasia Agent,114472
+385,CRINONE,Female Reproductive Agent,114472
+354,KCENTRA,Hemostatic,133941
+395,SYMLIN,Antidiabetic,106223
+396,ZYLET,Aminoglycoside/Corticosteroid Combination,105617
+398,CLODERM,Corticosteroid,104983
+398,CLODERM,Weak,104983
+400,SUPRAX,Anti-Infective Agent,104765
+400,SUPRAX,Antibiotic,104765
+401,ZOMIG,Antimigraine,104158
+414,ALINIA,Antiprotozoal,96920
+369,SUMAVEL DOSEPRO,Antimigraine,122148
+366,PATADAY,Ophthalmologic Agent,123633
+367,CARTICEL,Musculoskeletal Agent,123217
+379,ACANYA,Antiacne,119850
+379,ACANYA,Antibacterial,119850
+383,GONAL-F,Endocrine-Metabolic Agent,117788
+383,GONAL-F,Female Reproductive Agent,117788
+358,VALSTAR,Antineoplastic Agent,130408
+352,CLEVIPREX,Antihypertensive,134720
+353,COMPLERA,Antiretroviral Agent,134253
+344,ADACEL,Vaccine,147070
+345,AZOR,Antihypertensive,145869
+346,THROMBATE III,Coagulation Inhibitor,143296
+335,PLASMA,Volume Expander,153058
+342,AUVIQ,Anaphylaxis Agent,147692
+342,AUVIQ,Anesthetic Adjunct,147692
+342,AUVIQ,Bronchodilator,147692
+342,AUVIQ,Vasopressor,147692
+339,AVODART,Benign Prostatic Hypertrophy Agent,152967
+328,LAZANDA,Analgesic,157459
+330,HYZAAR,Angiotensin II Receptor Antagonist/Thiazide Combination,155297
+330,ZOCOR,Antihyperlipidemic,155297
+319,MOXEZA,Antibiotic,169642
+321,ZENPEP,Digestant,168541
+321,ZENPEP,Enzyme Replacement,168541
+321,ZENPEP,Gastrointestinal Agent,168541
+322,DAYTRANA,CNS Stimulant,166196
+317,CIPRODEX,Anti-Infective/Anti-Inflammatory Combination,174623
+317,CIPRODEX,Antibacterial,174623
+566,GABLOFEN,Analgesic,40135
+566,GABLOFEN,Skeletal Muscle Relaxant,40135
+566,GABLOFEN,Centrally Acting,40135
+324,HEMACORD,Hematopoietic,163402
+308,THYROGEN,Diagnostic Agent,183397
+308,THYROGEN,Thyroid Function,183397
+310,AGGRENOX,Platelet Aggregation Inhibitor,181827
+310,AGGRENOX,Phosphodiesterase Inhibitor/Salicylate,181827
+310,AGGRENOX,Aspirin Combination,181827
+311,JENTADUETO,Antidiabetic,181365
+302,RELISTOR,Gastrointestinal Agent,189177
+303,KORLYM,Antiglucocorticoid,186339
+303,KORLYM,Antiprogesterone,186339
+306,ONMEL,Antifungal,185380
+300,RESCULA,Antiglaucoma,192009
+277,QNASL,Anti-Inflammatory,229247
+281,SKLICE,Anthelmintic,224850
+290,GRALISE,Anticonvulsant,208010
+290,GRALISE,Neuropathic Pain Agent,208010
+287,PROLEUKIN,Antineoplastic Agent,216595
+453,RAYOS,Endocrine-Metabolic Agent,77602
+453,RAYOS,Immune Suppressant,77602
+273,BRISDELLE,Antidepressant,231325
+273,BRISDELLE,Central Nervous System Agent,231325
+268,XENAZINE,Central Nervous System Agent,237207
+261,COZAAR,Cardiovascular Agent,250997
+261,COZAAR,Renal Protective Agent,250997
+258,GILOTRIF,Antineoplastic Agent,254676
+255,PRIALT,Analgesic,259686
+247,INTERMEZZO,Nonbarbiturate Hypnotic,281006
+250,LEVULAN KERASTICK,Photosensitizing Agent,274465
+240,QUILLIVANT XR,CNS Stimulant,307802
+240,QUILLIVANT XR,Central Nervous System Agent,307802
+236,LETAIRIS,Antihypertensive,312980
+237,SUSTIVA,Antiretroviral Agent,309851
+229,BROVANA,Bronchodilator,326675
+230,NAPRELAN,Analgesic,322628
+230,NAPRELAN,Antimigraine,322628
+230,NAPRELAN,Antirheumatic,322628
+230,NAPRELAN,Central Nervous System Agent,322628
+230,NAPRELAN,Musculoskeletal Agent,322628
+225,ADCIRCA,Antihypertensive,340619
+225,ADCIRCA,Erectile Dysfunction Agent,340619
+232,PREPOPIK,Laxative,321103
+232,PREPOPIK,Stimulant Combination,321103
+221,SYNAGIS,Antiviral,348651
+221,SYNAGIS,Immunological Agent,348651
+217,SYNTHROID,Diagnostic Agent,358581
+217,SYNTHROID,Thyroid Function,358581
+217,SYNTHROID,Thyroid Supplement,358581
+218,ULTIVA,Analgesic,354928
+218,ULTIVA,Anesthetic Adjunct,354928
+215,COMBIVENT RESPIMAT,Bronchodilator,359856
+211,JUXTAPID,Antihyperlipidemic,367579
+212,CYCLOSET,Antidiabetic,364696
+212,CYCLOSET,Antiparkinsonian,364696
+212,CYCLOSET,Prolactin Secretion Inhibitor,364696
+206,SPRYCEL,Antineoplastic Agent,388511
+206,SPRYCEL,Immunological Agent,388511
+190,PROCRIT,Hematopoietic,429550
+187,CIALIS,Antihypertensive,446606
+187,CIALIS,Erectile Dysfunction Agent,446606
+202,COMBIGAN,Antiglaucoma Combination,396977
+183,BENICAR,Cardiovascular Agent,460682
+183,BENICAR,Renal Protective Agent,460682
+174,BARACLUDE,Antiviral,487465
+170,ENTEREG,Gastrointestinal Agent,507255
+162,YERVOY,Antineoplastic Agent,535487
+149,WELCHOL,Antihyperlipidemic,584195
+139,TREANDA,Antineoplastic Agent,640210
+141,VIREAD,Antiretroviral Agent,625460
+142,INTELENCE,Antiretroviral Agent,622196
+144,RANEXA,Antianginal,614989
+128,EPIPEN,Anaphylaxis Agent,683216
+128,EPIPEN,Anesthetic Adjunct,683216
+128,EPIPEN,Bronchodilator,683216
+128,EPIPEN,Vasopressor,683216
+132,ILEVRO,Anti-Inflammatory,672265
+134,FENTORA,Analgesic,670844
+126,TROKENDI XR,Anticonvulsant,695469
+126,TROKENDI XR,Central Nervous System Agent,695469
+123,RISPERDAL CONSTA,Antipsychotic,745026
+282,CARDENE IV,Antihypertensive,223816
+282,CARDENE IV,Cardiovascular Agent,223816
+104,SOVALDI,Antiviral,891228
+89,STRIBILD,Anti-Infective Agent,1020244
+89,STRIBILD,Antiviral,1020244
+89,STRIBILD,Reverse Transcriptase Inhibitor Combination,1020244
+76,ACTONEL,Calcium Regulator,1115683
+72,DORYX,Amebicide,1217837
+72,DORYX,Amebicide,1217837
+72,DORYX,Intestinal,1217837
+72,DORYX,Antiacne,1217837
+72,DORYX,Antibiotic,1217837
+72,DORYX,Antimalarial,1217837
+72,DORYX,Antiprotozoal,1217837
+72,DORYX,Dental Agent,1217837
+68,ASACOL HD,Anti-Inflammatory,1263785
+68,ASACOL HD,Gastrointestinal Agent,1263785
+64,ATELVIA,Calcium Regulator,1364588
+61,BUTRANS,Analgesic,1403954
+55,TESTIM,Endocrine-Metabolic Agent,1563239
+38,SPIRIVA,Bronchodilator,1962630
+35,OSENI,Antidiabetic,2112226
+33,KAZANO,Antidiabetic,2135940
+29,OSPHENA,Endocrine-Metabolic Agent,2187446
+25,AZILECT,Antiparkinsonian,2776875
+19,H.P. ACTHAR,Antiemetic,3623122
+19,H.P. ACTHAR,Diagnostic Agent,3623122
+19,H.P. ACTHAR,Adrenocortical Function,3623122
+19,H.P. ACTHAR,Endocrine-Metabolic Agent,3623122
+19,H.P. ACTHAR,Immune Suppressant,3623122
+448,ZEGERID,Gastric Acid Secretion Inhibitor,79230
+14,PRADAXA,Anticoagulant,4427502
+1200,LARONIDASE,Endocrine-Metabolic Agent,47
+1201,MEPOLIZUMAB,Gastrointestinal Agent,46
+1202,SIMCOR,Antihyperlipidemic,46
+1202,SIMCOR,HMG-COA Reductase Inhibitor Combination,46
+1204,GELNIQUE,Urinary Antispasmodic,42
+1207,OPANA,Analgesic,39
+1207,OPANA,Anesthetic Adjunct,39
+1209,NAFCILLIN,Antibiotic,37
+1210,ENGERIX-B,Vaccine,36
+1210,HAVRIX,Vaccine,36
+1212,ARGATROBAN,Anticoagulant,34
+1214,GLIADEL,Antineoplastic Agent,33
+1081,PRIMSOL,Antibiotic,398
+1081,PRIMSOL,Antiseptic,398
+1082,ASCLERA,Sclerosing Agent,396
+1084,CARDIOLITE,Antiacne,378
+1084,CARDIOLITE,Calcium Supplement,378
+1084,CARDIOLITE,Magnesium Supplement,378
+1084,CARDIOLITE,Mineral Supplement,378
+1084,CARDIOLITE,Nutriceutical,378
+1084,CARDIOLITE,Nutritive Agent,378
+1084,CARDIOLITE,Vitamin Combination,378
+1084,CARDIOLITE,Vitamin Combination,378
+1084,CARDIOLITE,Adult Formula,378
+1084,CARDIOLITE,Vitamin Combination,378
+1084,CARDIOLITE,Pediatric Formula,378
+1084,CARDIOLITE,Vitamin Combination,378
+1084,CARDIOLITE,Prenatal Formula,378
+1084,CARDIOLITE,Vitamin/Iron Combination,378
+1084,CARDIOLITE,Adult Formula,378
+1084,CARDIOLITE,Vitamin/Iron Combination,378
+1084,CARDIOLITE,Pediatric Formula,378
+1084,CARDIOLITE,Vitamin/Mineral Combination,378
+1084,CARDIOLITE,Adult Formula,378
+1084,CARDIOLITE,Vitamin/Mineral Combination,378
+1084,CARDIOLITE,Pediatric Formula,378
+1084,CARDIOLITE,Vitamin/Mineral/Fluoride/Iron Combination,378
+1084,CARDIOLITE,Pediatric Formula,378
+1084,CARDIOLITE,Vitamin/Mineral/Iron Combination,378
+1084,CARDIOLITE,Adult Formula,378
+1084,CARDIOLITE,Vitamin/Mineral/Iron Combination,378
+1084,CARDIOLITE,Pediatric Formula,378
+1084,CARDIOLITE,Vitamin/Mineral/Nutriceutical Combination,378
+1084,CARDIOLITE,Adult Formula,378
+1084,CARDIOLITE,Vitamin/Nutriceutical Combination,378
+1084,CARDIOLITE,Adult Formula,378
+1119,XALATAN,Antiglaucoma,174
+1088,ACETADOTE,Acetaminophen Antidote,349
+1093,EXTAVIA,Central Nervous System Agent,316
+1093,EXTAVIA,Immune Modulator,316
+1093,EXTAVIA,Immunological Agent,316
+1094,SIMPONI ARIA,Immune Modulator,310
+1097,IMIGLUCERASE,Digestant,294
+1097,IMIGLUCERASE,Gastrointestinal Agent,294
+1240,AVAGE,Dermatological Agent,16
+1242,TRUVADA,Antiretroviral Agent,15
+1248,TEKAMLO,Antihypertensive,13
+1249,LOTEMAX,Ophthalmologic Agent,13
+1250,AVAPRO,Cardiovascular Agent,12
+1250,AVAPRO,Renal Protective Agent,12
+1253,ACULAR LS,Ophthalmologic Agent,12
+1256,VIDEX,Antiretroviral Agent,11
+1257,TRISENOX,Antineoplastic Agent,11
+1258,IXARO,Vaccine,10
+1259,COUMADIN,Anticoagulant,10
+1260,METOCLOPRAMIDE,Antiemetic,10
+1260,METOCLOPRAMIDE,Diagnostic Agent,10
+1260,METOCLOPRAMIDE,Stimulant,10
+1260,METOCLOPRAMIDE,Gastrointestinal,10
+1223,SODIUM THIOSULFATE,Cyanide Antidote,26
+1225,MIRAPEX ER,Antiparkinsonian,23
+1226,KEPPRA XR,Anticonvulsant,23
+1227,ADVICOR,Antihyperlipidemic,22
+1228,ONDANSETRON,Antiemetic,22
+1230,CLORPRES,Alpha-Adrenergic Agonist/Thiazide Combination,20
+1230,CLORPRES,Antihypertensive,20
+1230,CLORPRES,Cardiovascular Agent,20
+1232,AZASITE,Antibiotic,19
+1235,EDECRIN,Cardiovascular Agent,18
+1217,CAMBIA,Analgesic,30
+1217,CAMBIA,Antimigraine,30
+1217,CAMBIA,Antirheumatic,30
+1217,CAMBIA,Central Nervous System Agent,30
+1217,CAMBIA,Musculoskeletal Agent,30
+1219,FLOMAX,Benign Prostatic Hypertrophy Agent,27
+1220,VERSACLOZ,Antipsychotic,27
+1221,DEXPAK 10-DAY TAPERPAK,Antiemetic,27
+1221,DEXPAK 10-DAY TAPERPAK,Diagnostic Agent,27
+1221,DEXPAK 10-DAY TAPERPAK,Adrenocortical Function,27
+1221,DEXPAK 10-DAY TAPERPAK,Endocrine-Metabolic Agent,27
+1221,DEXPAK 10-DAY TAPERPAK,Immune Suppressant,27
+1121,ROXICODONE,Analgesic,169
+1121,ROXICODONE,Oxycodone,169
+1123,VECTICAL,Antipsoriatic,162
+1124,XENADERM,Debriding Agent,158
+1124,XENADERM,Dermatological Agent,158
+1197,PREVACID,Gastric Acid Secretion Inhibitor,49
+1198,COMVAX,Vaccine,49
+1268,NOVOLIN R,Antidiabetic,7
+1268,NOVOLIN R,Diagnostic Agent,7
+1268,NOVOLIN R,Pituitary Function,7
+1268,NOVOLIN R,Gastrointestinal Agent,7
+1270,ACTIVELLA,Estrogen/Progestin Combination,2
+1271,SAFYRAL,Endocrine-Metabolic Agent,1
+1271,SAFYRAL,Female Reproductive Agent,1
+1271,SAFYRAL,Hormonal Contraceptive,1
+1271,SAFYRAL,Musculoskeletal Agent,1
+1272,ABREVA,Antiviral,1
+,PRIFTIN,Antitubercular,
+,RIFAMPIN,Antitubercular,
+,VOLIBRIS,Blood Modifier Agent,
+,LEXAPRO,Antianxiety,
+,LEXAPRO,Antidepressant,
+,AROMASIN,Antineoplastic Agent,
+,AROMASIN,Endocrine-Metabolic Agent,
+,PRAVACHOL,Antihyperlipidemic,
+,RASAGILINE,Antiparkinsonian,
+,ESCITALOPRAM,Antianxiety,
+,ESCITALOPRAM,Antidepressant,
+,GLUCAGEN HYPOKIT,Beta-Adrenergic Blocker Antagonist,
+,GLUCAGEN HYPOKIT,Diagnostic Agent,
+,GLUCAGEN HYPOKIT,Gastric Function,
+,GLUCAGEN HYPOKIT,Gastrointestinal Agent,
+,GLUCAGEN HYPOKIT,Glucose Regulation,
+,GLUCAGEN HYPOKIT,Antihypoglycemic,
+,NSAID,Analgesic,
+,NSAID,Antirheumatic,
+,NSAID,Central Nervous System Agent,
+,NSAID,Musculoskeletal Agent,
+,SILTUXIMAB,Immunological Agent,
+,DACOGEN,Antineoplastic Agent,
+,EXEMESTANE,Antineoplastic Agent,
+,EXEMESTANE,Endocrine-Metabolic Agent,
+,ENTYVIO,Gastrointestinal Agent,
+,SIMULECT,Immune Suppressant,
+,FEMARA,Antineoplastic Agent,
+,FEMARA,Endocrine-Metabolic Agent,
+,NEORAL,Immune Suppressant,
+,,,
+,SIROLIMUS,Immune Suppressant,
+,DEPO-TESTOSTERONE,Androgen,
+,DEPO-TESTOSTERONE,Endocrine-Metabolic Agent,
+,ZEPREVE,Ophthalmologic Agent,
+,THOREUS,Anesthetic,
+,THOREUS,Local,
+,LINACLOTIDE,Gastrointestinal Agent,
+,IMATINIB,Antineoplastic Agent,
+,IMATINIB,Immunological Agent,
+,ZITHROMAX,Antibiotic,
+,ARIPIPRAZOLE,Antipsychotic,
+,CASODEX,Antiandrogen,
+,EFFEXOR,Antidepressant,
+,PROSCAR,Alopecia Agent,
+,PROSCAR,Benign Prostatic Hypertrophy Agent,
+,CARIMUNE NF,Immune Serum,
+,VAPRISOL,Endocrine-Metabolic Agent,
+,PLERIXAFOR,Hematopoietic,
+,OXECTA,Analgesic,
+,OXECTA,Oxycodone,
+,ENTOCORT EC,Endocrine-Metabolic Agent,
+,ENTOCORT EC,Gastrointestinal Agent,
+,RASBURICASE,Endocrine-Metabolic Agent,
+,DOXERCALCIFEROL,Calcium Regulator,
+,DOXERCALCIFEROL,Endocrine-Metabolic Agent,
+,DOXERCALCIFEROL,Nutriceutical,
+,DOXERCALCIFEROL,Nutritive Agent,
+,T.R.U.E. TEST,Dermatological Agent,
+,BINOSTO,Calcium Regulator,
+,TASMAR,Antiparkinsonian,
+,DRONEDARONE,Antiarrhythmic,
+,TREXIMET,Antimigraine,
+,LOTENSIN,Antihypertensive,
+,LOTENSIN,Cardiovascular Agent,
+,LOTENSIN,Renal Protective Agent,
+,PROAMATINE,Vasopressor,
+,LINAGLIPTIN,Hypoglycemic,
+,ARRANON,Antineoplastic Agent,
+,METFORMIN,Hypoglycemic,
+,AFATINIB,Antineoplastic Agent,
+,GLUCOPHAGE XR,Hypoglycemic,
+,ZUTRIPRO,Antitussive,
+,ZUTRIPRO,Opioid/Antihistamine/Decongestant Combination,
+,LEUKINE,Hematopoietic,
+,VORICONAZOLE,Antifungal,
+,LUBIPROSTONE,Laxative,
+,ZANAFLEX,Skeletal Muscle Relaxant,
+,ZANAFLEX,Centrally Acting,
+,CAMPTOSAR,Antineoplastic Agent,
+,AMARYL,Hypoglycemic,
+,OLANZAPINE,Antipsychotic,
